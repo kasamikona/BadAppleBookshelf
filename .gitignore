@@ -1,0 +1,7 @@
+# Video source
+*.mp4
+*.sfk
+
+# Outputs
+frames/
+BadShelfPack/
