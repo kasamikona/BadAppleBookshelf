@@ -1,12 +1,12 @@
 # Bad Apple on Chiseled Bookshelves
-A data pack built for Minecraft 22w46a, may not work in newer snapshots!
+A data pack built for MC 22w46a, may not work in newer snapshots!
 I don't intend to update this again during snapshots but will check if it still works when 1.20 releases.
 
 Does not play the music, only the animation!
 The animation plays in realtime (20fps video at 1 frame per tick)
 
 ## Requirements
-- Minecraft snapshot 22w46a
+- MC snapshot 22w46a
 - FFmpeg
 - Python 3.7+
 - [Pillow](https://pillow.readthedocs.io/en/stable/) library for Python
